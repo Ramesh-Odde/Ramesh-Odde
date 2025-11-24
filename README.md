@@ -4,14 +4,14 @@ I’m a backend-focused developer skilled in Java, Spring Boot, Python, ASP.NET 
 
 ****🚀 Tech Stack****
 **Languages**
-  Java 8+, Python3, C#
-  Frameworks
-  Spring Boot
-  ASP.NET Core Web API
-  Hibernate / Spring Data JPA
-  Databases
-  MySQL
-  SQL Server
+  -> Java 8+, Python3, C#
+  -> Frameworks
+  -> Spring Boot
+  -> ASP.NET Core Web API
+  -> Hibernate / Spring Data JPA
+  -> Databases
+  -> MySQL
+  -> SQL Server
 **Tools**
   Git, GitHub
   Postman
